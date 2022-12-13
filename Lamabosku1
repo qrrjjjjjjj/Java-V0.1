@@ -1,0 +1,131 @@
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+local Window = Rayfield:CreateWindow({
+	Name = "Java 2022",
+	LoadingTitle = "Java Up",
+	LoadingSubtitle = "Thank use Java",
+	ConfigurationSaving = {
+		Enabled = true,
+		FolderName = nil, 
+		FileName = "Big Hub"
+	},
+        Discord = {
+        	Disabled = false,
+        	Invite = "JAVA 2022", 
+        	RememberJoins = true 
+        },
+	KeySystem = false, 
+	KeySettings = {
+		Title = "Java Key",
+		Subtitle = "Hi",
+		Note = "KEY=Hello DISCORD SERVER=https://discord.gg/UuZmAjrh",
+		FileName = "SiriusKey",
+		SaveKey = true,
+		GrabKeyFromSite = false,
+		Key = "Hello"
+	}
+})
+
+local Tab = Window:CreateTab("THIS HUB", 4483362458)
+local Paragraph = Tab:CreateParagraph({Title = "JAVA", Content = "RayField Hub"})
+local Paragraph = Tab:CreateParagraph({Title = "JAVA", Content = "Java Version0.1"})
+local Paragraph = Tab:CreateParagraph({Title = "JAVA", Content = "CREDIT=XXXXXLLL#8314"})
+local Paragraph = Tab:CreateParagraph({Title = "JAVA", Content = "New Update"})
+local Paragraph = Tab:CreateParagraph({Title = "Executor", Content = "SUPPORT KRNL-SYNAPSE-Fluxus-Mobile Executor-More"})
+local Paragraph = Tab:CreateParagraph({Title = "Script Dictatory", Content = "-1 Keyless.-2 Key.-3 Keyless And Key.-4 Unknown"})
+local Paragraph = Tab:CreateParagraph({Title = "New Updated", Content = "Added King Legacy Script.Added New Script"})
+
+local Tab = Window:CreateTab("Blox Fruit Pc", 8285095954)
+local Button = Tab:CreateButton({
+	Name = "THUNDER Z-4",
+	Callback = function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderZ-HUB/HUB/main/V2-Beta"))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Chiba-1",
+	Callback = function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/KindIhave/ChibaHubcomeback/main/Chibacomebackbeta.txt'))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Zen-2",
+	Callback = function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaizenofficiall/ZenHub/main/Loader", true))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Que-2",
+	Callback = function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/INoobie/Lua/main/blox%20fruits', true))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Cframe-1",
+	Callback = function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/CFrame3310/CFrameHub/main/BloxFruit_Mobile.lua"))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = " BEES-1",
+	Callback = function()
+		loadstring(game:HttpGet"https://raw.githubusercontent.com/accountnop/BEES-Hub/main/BF")()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Zamex-1",
+	Callback = function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/Sixnumz/ZamexMobile/main/Zamex_Mobile.lua'))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Ripper-2",
+	Callback = function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/xDestinyx/RipperHub/main/Loader.lua'))();
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Hoho-3",
+	Callback = function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Unique-1",
+	Callback = function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/AkiraNus/UniquehubKak/main/FreeCr.Xenonhub"))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Zaque-1",
+	Callback = function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Mei2232/ZaqueHub/main/Zaque%20Hub"))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Winnable-1",
+	Callback = function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/xlostpexz/tyuiop/Fps/Loading.lua"))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Mukoro-1",
+	Callback = function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/DonateMe/main/OldBf"))()
+	end,
+})
+
+local Tab = Window:CreateTab("King Legacy Pc", 46)
+
+local Label = Tab:CreateLabel("Coming Soon")
